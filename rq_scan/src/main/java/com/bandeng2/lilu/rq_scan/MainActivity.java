@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
                     BitmapFactory.decodeResource(getResources(),R.mipmap.ic_launcher));
             image.setImageBitmap(bitmap);
         }else{
+            // 提示
             Toast.makeText(this,"输入不能为空",Toast.LENGTH_LONG).show();
 
         }
