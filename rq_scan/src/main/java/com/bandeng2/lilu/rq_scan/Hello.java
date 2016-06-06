@@ -6,7 +6,7 @@ package com.bandeng2.lilu.rq_scan;
 public class Hello {
 
 	public void hell(){
-
+		// 测试使用
 	}
 
 }
