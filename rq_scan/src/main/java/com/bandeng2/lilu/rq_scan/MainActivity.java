@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView image;
     // 测试2
     // 测试3
+    // 测试4
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
