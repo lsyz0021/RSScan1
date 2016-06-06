@@ -8,6 +8,7 @@ public class Hello {
 	public void hell(){
 		// 测试使用
 		// 第二个人测试1
+		// 第二个人测试2
 	}
 
 }
