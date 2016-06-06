@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText et_text;
     private ImageView image;
     // 测试2
+    // 测试3
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
