@@ -21,10 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tv_rsult;
     private EditText et_text;
     private ImageView image;
-    // 测试2
-    // 测试3
-    // 测试4
-    // 测试5
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
