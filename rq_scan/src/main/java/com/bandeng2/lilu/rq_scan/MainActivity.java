@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         et_text = (EditText) findViewById(R.id.et_text);
         image = (ImageView) findViewById(R.id.iv_image);
 
+        // 这里是我们测试branch和pull request，所以加上这个注释，表示我们修改了代码
+
     }
     /**扫描二维码*/
     public void scan(View view){
